@@ -49,3 +49,6 @@ Now we can cleanup by using below commands:
     kubectl delete deploy kubernetes-configmap-reload
     kubectl delete svc kubernetes-configmap-reload
 
+great project
+
+
